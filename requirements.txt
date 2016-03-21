@@ -22,7 +22,7 @@ lxml==3.5.0
 python-dateutil==2.5.0
 celery_once==0.1.4
 flower==0.8.4
-django-test-plus==1.0.11
+django-test-plus==1.0.12
 factory-boy==2.6.1
 mailchimp
 coverage==4.0.3
@@ -34,5 +34,5 @@ django-mailgun==0.8.0
 uwsgitop
 coverage==4.0.3
 flake8==2.5.4
-django-test-plus==1.0.11
+django-test-plus==1.0.12
 factory-boy==2.6.1
