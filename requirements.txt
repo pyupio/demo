@@ -16,7 +16,7 @@ pinax-stripe==3.0.0
 PyJWT==1.4.0
 raven==5.11.1
 setuptools==20.3.1
-requests
+requests==2.9.1
 certifi
 requests-mock==0.7.0
 django-extensions==1.6.1
