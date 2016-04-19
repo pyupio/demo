@@ -34,4 +34,4 @@ uwsgitop==0.9
 coverage==4.0.3
 flake8==2.5.4
 django-test-plus==1.0.12
-factory-boy==2.6.1
+factory-boy==2.7.0
