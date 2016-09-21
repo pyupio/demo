@@ -26,7 +26,7 @@ celery_once==0.1.4
 flower==0.9.0
 mailchimp==2.0.9
 django-debug-toolbar==1.4
-ipdb==0.9.0
+ipdb==0.10.1
 uwsgi==2.0.12
 django-mailgun==0.8.0
 -e git://github.com/pyupio/pyup#egg=pyup
