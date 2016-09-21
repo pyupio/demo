@@ -33,5 +33,5 @@ django-mailgun==0.9.1
 uwsgitop==0.9
 coverage==4.2
 flake8==3.0.4
-django-test-plus==1.0.12
+django-test-plus==1.0.15
 factory-boy==2.7.0
