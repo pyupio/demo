@@ -18,7 +18,7 @@ raven==5.27.1
 setuptools==27.3.0
 certifi==2016.8.31
 requests==2.8.1
-requests-mock==0.7.0
+requests-mock==1.1.0
 django-extensions==1.6.1
 lxml==3.6.3
 python-dateutil==2.5.1
