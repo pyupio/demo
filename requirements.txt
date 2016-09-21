@@ -17,7 +17,7 @@ PyJWT==1.4.2
 raven==5.27.1
 setuptools==27.3.0
 certifi==2016.8.31
-requests==2.8.1
+requests==2.11.1
 requests-mock==1.1.0
 django-extensions==1.7.4
 lxml==3.6.3
