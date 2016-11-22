@@ -32,6 +32,6 @@ django-mailgun==0.8.0
 -e git://github.com/pyupio/pyup#egg=pyup
 uwsgitop==0.9
 coverage==4.0.3
-flake8==2.5.4
+flake8==3.2.1
 django-test-plus==1.0.12
 factory-boy==2.6.1
