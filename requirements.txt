@@ -27,7 +27,7 @@ flower==0.9.0
 mailchimp==2.0.9
 django-debug-toolbar==1.4
 ipdb==0.9.0
-uwsgi==2.0.12
+uwsgi==2.0.14
 django-mailgun==0.8.0
 -e git://github.com/pyupio/pyup#egg=pyup
 uwsgitop==0.9
