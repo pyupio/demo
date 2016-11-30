@@ -1,4 +1,4 @@
-django==1.9.4
+django==1.10.3
 django-secure==1.0.1
 django-allauth==0.25.2
 psycopg2==2.6.1
