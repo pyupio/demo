@@ -6,5 +6,5 @@ django-redis==4.3.0
 redis>=2.10.0
 PyJWT==1.4.0
 requests==2.8.1
-lxml==3.6.0
+lxml==3.7.1
 uwsgi==2.0.12
